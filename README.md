@@ -3,7 +3,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Olbian Dolphins"
+       title="Horses in the Ancient Greek Imagination"
        author="Kari Fossum"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -20,7 +20,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://manifests.collections.yale.edu/yuag/obj/138683">
+       manifest="https://manifests.collections.yale.edu/yuag/obj/138683](https://media.getty.edu/iiif/manifest/e5220012-8ad3-4bdd-a82a-e4a670da6633">
 
 # Basic usage
 
@@ -33,7 +33,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://manifests.collections.yale.edu/yuag/obj/138683">
+       url="https://media.getty.edu/iiif/manifest/853c78bc-f4b4-41d4-a6d6-6e1301dc1ac6">
 
 ## Map
 
